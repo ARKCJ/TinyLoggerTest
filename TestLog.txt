@@ -1,0 +1,7 @@
+2023-02-26 20:51:05 DEBUG src/test.cpp:8 name=jack age=18
+2023-02-26 20:51:18 DEBUG src/test.cpp:8 name=jack age=18
+2023-02-26 20:51:19 DEBUG src/test.cpp:8 name=jack age=18
+2023-02-26 20:51:19 DEBUG src/test.cpp:8 name=jack age=18
+2023-02-26 20:51:20 DEBUG src/test.cpp:8 name=jack age=18
+2023-02-26 20:51:20 DEBUG src/test.cpp:8 name=jack age=18
+2023-02-26 20:51:21 DEBUG src/test.cpp:8 name=jack age=18
